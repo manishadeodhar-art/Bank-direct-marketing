@@ -1,4 +1,7 @@
 # Bank-direct-marketing
+
+#### Link to Jupyter Notebook - https://github.com/manishadeodhar-art/Bank-direct-marketing/blob/main/prompt_III.ipynb
+
 ## **Executive Summary**
 This project evaluates four supervised learning models—Logistic Regression, K‑Nearest Neighbors (KNN), Decision Tree, and Support Vector Classifier (SVC)—to determine their effectiveness in predicting customer subscription to a term deposit as part of a bank’s telemarketing campaign. Using the Bank Marketing dataset from the UCI Machine Learning Repository, the analysis compares each model under default settings and after hyperparameter tuning, focusing on training time, training accuracy, and test accuracy.
 
